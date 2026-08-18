@@ -88,7 +88,7 @@ dan rating sangat lemah.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## Limitations
 
